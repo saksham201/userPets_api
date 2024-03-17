@@ -147,6 +147,76 @@
     "petName": "Devil",
     "petImage": "https://cdn.shibe.online/shibes/0f305bd1f711737046266435fdbd1eac201329f7.jpg",
     "isFriendly": false
+  },
+  {
+    "id": 22,
+    "userName": "Eddy Katusa",
+    "petName": "Pirate",
+    "petImage": "https://cdn.shibe.online/shibes/6ddc38b0e28399ba27cd53019b0a5998cdbfdbed.jpg",
+    "isFriendly": true
+  },
+  {
+    "id": 23,
+    "userName": "Eddy Katusa",
+    "petName": "Pirate",
+    "petImage": "https://cdn.shibe.online/shibes/6ddc38b0e28399ba27cd53019b0a5998cdbfdbed.jpg",
+    "isFriendly": true
+  },
+  {
+    "id": 18,
+    "userName": "Eddy Katusa",
+    "petName": "Pirate",
+    "petImage": "https://cdn.shibe.online/shibes/6ddc38b0e28399ba27cd53019b0a5998cdbfdbed.jpg",
+    "isFriendly": true
+  },
+  {
+    "id": 24,
+    "userName": "Minaco Retro",
+    "petName": "Devil",
+    "petImage": "https://cdn.shibe.online/shibes/0f305bd1f711737046266435fdbd1eac201329f7.jpg",
+    "isFriendly": false
+  },
+  {
+    "id": 25,
+    "userName": "Minaco Retro",
+    "petName": "Devil",
+    "petImage": "https://cdn.shibe.online/shibes/0f305bd1f711737046266435fdbd1eac201329f7.jpg",
+    "isFriendly": false
+  },
+  {
+    "id": 26,
+    "userName": "Eddy Katusa",
+    "petName": "Pirate",
+    "petImage": "https://cdn.shibe.online/shibes/6ddc38b0e28399ba27cd53019b0a5998cdbfdbed.jpg",
+    "isFriendly": true
+  },
+  {
+    "id": 27,
+    "userName": "Minaco Retro",
+    "petName": "Devil",
+    "petImage": "https://cdn.shibe.online/shibes/0f305bd1f711737046266435fdbd1eac201329f7.jpg",
+    "isFriendly": false
+  },
+  {
+    "id": 28,
+    "userName": "Eddy Katusa",
+    "petName": "Pirate",
+    "petImage": "https://cdn.shibe.online/shibes/6ddc38b0e28399ba27cd53019b0a5998cdbfdbed.jpg",
+    "isFriendly": true
+  },
+  {
+    "id": 29,
+    "userName": "Minaco Retro",
+    "petName": "Devil",
+    "petImage": "https://cdn.shibe.online/shibes/0f305bd1f711737046266435fdbd1eac201329f7.jpg",
+    "isFriendly": false
+  },
+  {
+    "id": 30,
+    "userName": "Eddy Katusa",
+    "petName": "Pirate",
+    "petImage": "https://cdn.shibe.online/shibes/6ddc38b0e28399ba27cd53019b0a5998cdbfdbed.jpg",
+    "isFriendly": true
   }
  ]
 }
